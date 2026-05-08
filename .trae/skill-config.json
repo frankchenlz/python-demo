@@ -1,0 +1,7 @@
+{
+  "disabledSkills": [
+    "web-project-generator",
+    "admin-system-initializer",
+    "project-initializer"
+  ]
+}
